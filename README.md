@@ -4,8 +4,7 @@
 Once the people of Terra 
 
 These times are long gone. The legacy of The Greater Terran Epoch is almost
-faded from memory. There are great halls still on the ancient and powerful Core
-Clusters, and the great star factories of the Binary Forge still ring in the
+faded from memory. The great houses of the Core Clusters still bestride the galaxy, and the great star factories of the Binary Forge still ring in the
 stellar night. But they are far, far away.
 
 You are a spacer. A desperate lunatic careening through the front lines of the
@@ -29,7 +28,7 @@ rudimentary rules and rulings for the following elements or situations
 
 So...
 
-# Classes
+### Classes
 
 Because of the framework of Torchbearer, we must early on deal with how to deal
 with stocks. I am of the opinion that by allowing the alien into the players
@@ -42,13 +41,15 @@ organs. It does not appear to eat, and yet it grows horrifically. It's blood is
 the void. This should be an engine of the game, this fear and perfection of the
 truly alien. 
 So, the choices then are human, cyborg, and synth. First pass classes:
-Class|Primary Skills|Nature
-The Human Pilot|Astrogation, 
-The Human Engineer
-The Human Smuggler
-The Cyborg Soldier
-The Synth Scientist
 
-# Ships
+|Class|Primary Skills|Nature|
+|-----|--------------|------|
+|The Human Pilot|Astrogation,|| 
+|The Human Engineer|Maintenance||
+|The Human Smuggler|||
+|The Cyborg Soldier|||
+|The Synth Scientist|||
 
-# Sufficiently Advanced Technology
+### Ships
+
+### Sufficiently Advanced Technology
