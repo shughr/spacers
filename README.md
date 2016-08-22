@@ -66,14 +66,34 @@ and would allow the character operating the controls of that function to take
 certain actions or to take a bonus to certain actions. Here, for example would
 be the layout of the Engines card
 
-######Engine Room
+####Engine Room
 |Actions|Can Help|Can Act|
 |-------|--------|-------|
 |Attack | - | - |
 |Defend | +1D to Defend Rolls made by Shield Room| - |
-|Maneuver| +1S to Maneuver Rolls made by Navigation|+2D to any Jump rolls made
-to disengage|
+|Maneuver| +1S to Maneuver Rolls made by Navigation|+2D to any Jump rolls made to disengage|
 |Feint  | +1D to Feint Rolls made by Navigation|
+
+And this might be a start at a Defense Systems card
+####Defense Systems
+|Actions|Can Help|Can Act|
+|-------|--------|-------|
+|Attack |    -   |+1D per class to all Gunnery rolls|
+|Defend |+1D to any Defense roll if Defensive Munitions are installed| - |
+|Maneuver| - | - |
+|Feint| - | - |
+
+So we're staying in the four actions camp
+
+Actions
+  :Attack
+    :Open Fire, Ram
+  :Defend
+    :Raise Shields, Shoot down missiles, repair systems
+  :Maneuver
+    :Flank, Disarm, Lock Systems
+  :Feint
+    :Hack systems, board ship, bypass shields
 
 
 ### Sufficiently Advanced Technology
