@@ -1,100 +1,34 @@
-## Torches in the Dark
-###### A grim and dangerous game of adventure and survival in the far-future
-### A long Time Ago...
-Once the people of Terra 
+﻿# Torches in the Dark
+###### A Game of Exploration and Adventure in the Far Future
 
-These times are long gone. The legacy of The Greater Terran Epoch is almost
-faded from memory. The great houses of the Core Clusters still bestride the galaxy, and the great star factories of the Binary Forge still ring in the
-stellar night. But they are far, far away.
+### Design Goals
 
-You are a spacer. A desperate lunatic careening through the front lines of the
-great Entropic Wave of time, the last force of nature which has never
-known the yoke of man's command. Out here, it's just you, a few like-minded
-maniacs, and a couple layers of Plastic, GoldFoam insulation, and compressed
-air between you and the unbearable fullness of the void. What's in it for you?
-Nothing at all. But it's better than being locked in a dirt-side holding cell,
-or forced in to the Marines. Yep. The Bad Old Times are back. The Weird Years
-are setting in. So you suit up.
+1. I would like to emphasize the interior, "architectural" quality of the ship. Functions of the ship should be tied to places in the ship and these places should not be abstracted out of existence by the rules. In other words, where a player is in the ship at any given moment should matter, both to her immediate goals, and to the general state of affairs in the ship. If you've played FTL before, you should have a pretty good idea of what this means. If you haven't played FTL, you should!
+2. These rules should add as little as possible to the fundamental mechanics of Torchbearer. Conflict, Advancement, Wises, the Reward cycle etc. should remain absolutely unchanged.
+3. The adventure, camp and town phases are distinct modes of play, but still mechanically integrated into each other's reward cycle. Maintaining this integration during ship play will be hugely important if it is to feel like a natural extension of the TB rules.
+4. Simplicity should rule the day. I think one of my problems with the USMC expansion is that the ranks system, equipment lists and downtime rules weren't particularly elegant. I want to avoid adding too much inventory complexity or sci-fi tech-fetishism. I would prefer to paint the genre trappings with a broad brush, and let players add the flavorful crunch.
 
-The Goals of this Document are:
+## Rules
+### Phases
 
-1. To delete this two preceeding paragraphs as quickly as is reasonable.
-2. Delelete the previous sentence. 
-3. To ouline enough of a system to convincingly do a pre-alpha playtest, relying
-heavily on the Torchbearer ruleset. This will primarly consist of developing
-rudimentary rules and rulings for the following elements or
-situations
-  - Five (5) Classes, modeled after the Torchbearer "division of labor"
-  - Rules for Ships (creation, use, ship-to-ship interactions)
-  - A Scenario?
+#### Space
+Spacers are scum, villans, rogues, ruffians, pirates and exiles. But at least they have a ship.  Play on the ship exists in a distinct phase, similar to the Adventure, Town and Camp phases. The ship is certainly a vehicle for adventure as it allows the characters to explore the uncharted depths of space, to make discoveries, and to engage in deadly conflict with their adversaries. However, it is also a relatively safe place in the infinite darkness of space: players can heal in the sickbay, dine in the mess hall, get a little R&R in the holodeck etc. And, because of the omnipresence of the Warpnet, players can also interact with the galactic economy: taking jobs, placing orders for equipment to be delivered to their next destination for pickup, sifting throught he bottomless morass of information of the Subsurf. 
+So what is the Space phase? The primary goal of the Space phase is the maintenance of the ship, balanced against the players other goals. Just as players are subject to the grind during the Adventure Phase, so to is the Ship during the Space Phase. Players make tests in order to guide their ship through the inky black between stars, to locate the rebel base hidden on the jungle moon of Zgu-C, and to keep pirates at bay long enough to engage the Slingdrive and jump to safety. And while they pursue these goals, the ship slowly falls apart. Seals get brittle and break, rad-shields degrade under the near constant stellar-winds, faultly logic-boards sieze up, cascading throughout the onboard systems, virulent bacterial infections spread like wildfire in the contained ecology of the ships interior. A couple meters of titanium and goldfoam are all that stand between a Spacer and The Void. Grab a spanner, and get to work. 
 
-So...
- 
-### Classes
+##### Questions for Space Phase
 
-I am of the opinion that allowing the alien into the sphere of play risks normalizing and domesticating the idea of the alien, which
-is what drives so much of what I like in genre sci-fi. The
-Predator is uninteresting because its goals are recognizable to us and in a way
-communicated to us directly by the creature itself. The Xenomorph is terrifying
-and perfect because it is so totally alien. It is without speech, sensory
-organs. It does not appear to eat, and yet it grows horrifically. Its blood is
-the void. This should be an engine of the game, this fear and perfection of the
-truly alien. 
-So, the choices then are human, cyborg, and synth. First pass classes:
+1. Can players earn checks?
+2. How can players spend checks? 
+3. What is the order of the Grind for a Ship?
+4. What resources are used during Space phase? 
 
-|Class|Primary Skills|Nature|
-|-----|--------------|------|
-|The Human Pilot|Astrogation,|| 
-|The Human Engineer|Maintenance||
-|The Human Smuggler|||
-|The Cyborg Soldier|||
-|The Synth Scientist|||
- 
-### Ships
+Regarding question #4: I'm thinking here of the two fundamental resources of Torchbearer: light and water. These two resources ideally create 90% of the tension in Torchbearer. We need one or two really strong, tight resource cycles that will drive the Space phase as well. Possible solutions are a harvestable energy resource (solar, nuclear, chemical, whatever) and a ur-material that powers the Fabricators. Or some sort of abstract Scrap that is spent on ship upgrades and the like? Scrap is good because you can find it anywhere (like water in TB) and energy is good because if you really run out, you're fucked.
 
-The goal here is to build a systems balancing tactical gameplay in the style
-FTL, without straying too far from the core conflict resolution mechanic of
-Torchbearer. 
+#### Town
+Town rules should remain largely unchanged from the rules as written in TB. Deep-space stations, moonbases, orbital weapons platforms are for all intents and purposes town. I recommend we keep town elements as similar as possible to the Torchbearer town locations: Gate, Market, Temple, Guild Halls, Tavern, and then various levels of lodging, from Flophouse to Hotel. Apply a minimal amount of color to maximize clarity between resources
 
-So: Three turns, resolved in order, with limited, abstracted choices presented
-to you, each having a slightly different contextual resolution mechanic. 
+#### Adventure
 
-The simplest way to do this is to present THE SHIP as a subset of Torchbearer's
-gear. Each of the ship's core functions (Weapons, ECLSS, Engines, Navigation,
-Shields) would be represented by a card (a la equipment cards in Torchbearer),
-and would allow the character operating the controls of that function to take
-certain actions or to take a bonus to certain actions. Here, for example would
-be the layout of the Engines card
+#### Camp
 
-####Engine Room
-|Actions|Can Help|Can Act|
-|-------|--------|-------|
-|Attack | - | - |
-|Defend | +1D to Defend Rolls made by Shield Room| - |
-|Maneuver| +1S to Maneuver Rolls made by Navigation|+2D to any Jump rolls made to disengage|
-|Feint  | +1D to Feint Rolls made by Navigation|
-
-And this might be a start at a Defense Systems card
-####Defense Systems
-|Actions|Can Help|Can Act|
-|-------|--------|-------|
-|Attack |    -   |+1D per class to all Gunnery rolls|
-|Defend |+1D to any Defense roll if Defensive Munitions are installed| - |
-|Maneuver| - | - |
-|Feint| - | - |
-
-So we're staying in the four actions camp
-
-Actions
-  :Attack
-    :Open Fire, Ram
-  :Defend
-    :Raise Shields, Shoot down missiles, repair systems
-  :Maneuver
-    :Flank, Disarm, Lock Systems
-  :Feint
-    :Hack systems, board ship, bypass shields
-
-
-### Sufficiently Advanced Technology
-
+### Conflicts in Ship Phase
