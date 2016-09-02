@@ -66,9 +66,9 @@ Ships have the following attributes
 #### Provenance
 #### Traits
 #### Raw Abilities
-  ##### Integrity
-  ##### Security
+##### Integrity
+##### Security
 #### Class
 #### Nature
-  ##### Nature Descriptors: See subtable
+##### Nature Descriptors: See subtable
 #### Capabilities
