@@ -71,7 +71,7 @@ Where's the nearest dealership?
 She's pretty. Who'd you steal her from?
 #### Traits
 I've made a lot of special modifications myself.
-#### Raw Abilitiesj
+#### Raw Abilities
 ##### Integrity
 Don't worry, she'll hold together.
 ##### Security
