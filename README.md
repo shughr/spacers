@@ -32,3 +32,28 @@ Town rules should remain largely unchanged from the rules as written in TB. Deep
 #### Camp
 
 ### Conflicts in Ship Phase
+
+All conflicts described in the Torchbearer ruleset are assumed here and function
+in this game without modification or exception. 
+
+#### Skills and Abilities for Dispositon
+|Intent|Roll|Add to Rank|
+|------|----|-----------|
+|Destroy|Artillerist or Helm|Ship's Nature|
+|Pursue|Tactics or Helm|Ship's Nature|
+|Disable|Computers or Artillerist*|Ship's Nature|
+|Board|Tactics or Fighter|Ship's Nature|
+
+NOTE: This may over-emphasize the ability of the ship relative to the ability of
+the characters. I think this is desirable.
+
+#### Conflict Ability and Skills Used by Action
+|Type of Conflict|Attack|Defend|Feint|Maneuver|
+|----------------|------|------|-----|--------|
+|Destroy|Artillerist|Helm or Engineering|Artillerist|Helm|
+|Pursue|Tactics or Helm|Engineering|Tactics or Helm|Engineering|
+|Disable|Computers or Artillerist*||||
+|Board|Tactics or Fighter||Tactics or Fighter||
+
+*Use of Artillerist in this conflict requires appropriate armament.
+### Ships
