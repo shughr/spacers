@@ -30,8 +30,8 @@ Town rules should remain largely unchanged from the rules as written in TB. Deep
 #### Adventure
 
 #### Camp
-
-### Conflicts in Ship Phase
+---
+### Conflicts in Space Phase
 
 All conflicts described in the Torchbearer ruleset are assumed here and function
 in this game without modification or exception. 
@@ -56,6 +56,7 @@ the characters. I think this is desirable.
 |Board|Tactics or Fighter|Computers or Security|Tactics or Fighter|Computers or Security|
 
 *Use of Artillerist in this conflict requires appropriate armament.
+---
 ### Ships
 
 Ships have the following attributes
