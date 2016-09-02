@@ -50,10 +50,26 @@ the characters. I think this is desirable.
 #### Conflict Ability and Skills Used by Action
 |Type of Conflict|Attack|Defend|Feint|Maneuver|
 |----------------|------|------|-----|--------|
-|Destroy|Artillerist|Helm or Engineering|Artillerist|Helm|
-|Pursue|Tactics or Helm|Engineering|Tactics or Helm|Engineering|
-|Disable|Computers or Artillerist*||||
-|Board|Tactics or Fighter||Tactics or Fighter||
+|Destroy|Artillerist|Integrity|Artillerist|Helm or Shipsmarts|
+|Pursue|Tactics or Helm|Engineering|Tactics or Helm|Engineering or Shipsmarts|
+|Disable|Computers|Security|Computers|Security|
+|Board|Tactics or Fighter|Computers or Security|Tactics or Fighter|Computers or
+Security|
 
 *Use of Artillerist in this conflict requires appropriate armament.
 ### Ships
+
+Ships have the following attributes
+
+#### Name
+#### Insignia
+#### Make and Model
+#### Provenance
+#### Traits
+#### Raw Abilities
+  ##### Integrity
+  ##### Security
+#### Class
+#### Nature
+  ##### Nature Descriptors: See subtable
+#### Capabilities
