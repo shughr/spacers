@@ -1,9 +1,10 @@
 #License
-This work in progress is copyrighted 2016 by Simon Reichley and Shane King. It
-utilizes portions of the Torchbearer roleplaying game under the terms set forth
-the in the Torchbearer Sagas Commercial Termsheet, reprinted below.
+This work in progress is copyrighted 2016 by Simon Reichley and Shane King, all
+rights reserved. It utilizes portions of the Torchbearer roleplaying game under the terms set forth
+the in the Torchbearer Sagas Commercial Termsheet, reprinted below ([link
+here](https://www.torchbearerrpg.com/?page_id=78)).
 
-#Torchbearer Sagas Commercial Termsheet
+##Torchbearer Sagas Commercial Termsheet
 1. This is a plain languague license for those who wish to create material for
 the Torchbearer roleplaying game for commercial digital publication. The license
 is between the Authors, Luke Crane and Thor Olavsrud, and the licensees, Simon
