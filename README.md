@@ -1,7 +1,7 @@
 ﻿# Torches in the Dark
 ###### A Game of Exploration and Adventure in the Far Future
 
-### Design Goals
+## Design Goals
 
 1. I would like to emphasize the interior, "architectural" quality of the ship. Functions of the ship should be tied to places in the ship and these places should not be abstracted out of existence by the rules. In other words, where a player is in the ship at any given moment should matter, both to her immediate goals, and to the general state of affairs in the ship. If you've played FTL before, you should have a pretty good idea of what this means. If you haven't played FTL, you should!
 2. These rules should add as little as possible to the fundamental mechanics of Torchbearer. Conflict, Advancement, Wises, the Reward cycle etc. should remain absolutely unchanged.
@@ -53,8 +53,7 @@ the characters. I think this is desirable.
 |Destroy|Artillerist|Integrity|Artillerist|Helm or Shipsmarts|
 |Pursue|Tactics or Helm|Engineering|Tactics or Helm|Engineering or Shipsmarts|
 |Disable|Computers|Security|Computers|Security|
-|Board|Tactics or Fighter|Computers or Security|Tactics or Fighter|Computers or
-Security|
+|Board|Tactics or Fighter|Computers or Security|Tactics or Fighter|Computers or Security|
 
 *Use of Artillerist in this conflict requires appropriate armament.
 ### Ships
