@@ -3,8 +3,7 @@
 
 ## Design Goals
 
-1. I would like to emphasize the interior, "architectural" quality of the ship. Functions of the ship should be tied to places in the ship and these places should not be abstracted out of existence by the rules. In other words, where a player is in the ship at any given moment should matter, both to her immediate goals, and to the general state of affairs in the ship. If you've played FTL before, you should have a pretty good idea of what this means. If you haven't played FTL, you should!
-2. These rules should add as little as possible to the fundamental mechanics of Torchbearer. Conflict, Advancement, Wises, the Reward cycle etc. should remain absolutely unchanged.
+1. I would like to emphasize the interior, "architectural" quality of the ship. Functions of the ship should be tied to places in the ship and these places should not be abstracted out of existence by the rules. In other words, where a player is in the ship at any given moment should matter, both to her immediate goals, and to the general state of affairs in the ship. If you've played FTL before, you should have a pretty good idea of what this means. If you haven't played FTL, you should!  2. These rules should add as little as possible to the fundamental mechanics of Torchbearer. Conflict, Advancement, Wises, the Reward cycle etc. should remain absolutely unchanged.
 3. The adventure, camp and town phases are distinct modes of play, but still mechanically integrated into each other's reward cycle. Maintaining this integration during ship play will be hugely important if it is to feel like a natural extension of the TB rules.
 4. Simplicity should rule the day. I think one of my problems with the USMC expansion is that the ranks system, equipment lists and downtime rules weren't particularly elegant. I want to avoid adding too much inventory complexity or sci-fi tech-fetishism. I would prefer to paint the genre trappings with a broad brush, and let players add the flavorful crunch.
 
@@ -87,6 +86,37 @@ Engine rooms to the left, artillery is below decks, got a little holodeck
 upstairs and the mess is just to the right. Everything else is life support.
 
 
-#### Skills & Factors
+### Skills & Factors
+
+#### Artillerist
+Artillery is in fact an ancient art. Mastery of the skill requires a deep and
+intuitive understanding of geometry, ballistics, classical mechanics, hard-vac
+dynamics, and general relativity. Most people get by with the help of a braked
+weapons module and good instincts.
+###### Suggested Help: Computers, Helm
+###### Beginners Luck: Will
+
+###### *Artillerist Factors*
+__Size of Target__: Of a class above, of the same class, of a lesser class
+__Range of Target__: At weapons range, inside of weapons range, outside of
+weapons range
+__Additional Factors__:target is more than two ranges away from weapons range,
+within the gravitic influence of a Giant-class planet (or other body of similar
+influence)
 
 
+#### Helm
+To take the helm of any startship is a brutally dangerous task. Fleet captains
+and hotshot pilots must posess vast technical knowlege of their craft if they
+are to survive long in the unrelenting gauntlet of deep space travel. Spacers
+all over the sector make do with a little braked help and a lotta luck. 
+##### Suggested Help: 
+##### Beginners Luck: Will
+ 
+##### Fighter
+
+##### Computers
+
+##### Tactics
+
+##### 
