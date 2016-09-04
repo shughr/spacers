@@ -86,6 +86,134 @@ Engine rooms to the left, artillery is below decks, got a little holodeck
 upstairs and the mess is just to the right. Everything else is life support.
 
 
-#### Skills & Factors
+## Skills & Factors
 
+###Artillerist - 
+Used for heavy, smart, and large weaponry, large laser, high powered phase weaponry, and ballistics.
+Used for vs. and used to operate crew level weaponry from battery to cannon. Also used to operate smart weaponry. (Benefit of manual weaponry is it can't be hacked.. all smart equipment should have a security level. Benefit of smart weaponry is technician can help. Technician cannot help with manual weaponry.)
+
+###Astronomer - 
+For mapping, charting, and manual wayfinding on planetary interstellar and intergalactic level!
+
+###Bookkeeper - 
+Basically all things Steward. Bookkeeping is used to administrate... use Dealer to cash in and do deals, not Bookkeeper! Bookkeepers can do everything from cataloging findings for upload to the warpnet, to rationing supplies for the next leg of adventure (Bonus to recover from Wear & Tear/Fatigue).
+Factors:
+Logistics: Local, overworld; interplanetary, interstellar, intergalactic.
+Paperwork: invoice, contract, taxes
+Cataloguing: travel log, business log, research.
+Contracts: work for hire, small enterprise, corporate
+For: one, party, small enterprise, large enterprise, people group, national, planetary.
+Email: personal, to accountant, to slumlord, to CEO
+
+###Cartographer - 
+for mapping on small scale.
+
+###Commander - 
+Leader skills. Mostly for conflicts.
+
+###Controller - 
+For augmentation rolls for cyborgs. Kind of like Arcanist. Not sure if we will do this but if we do, this is the space to describe whatever skill operates augs.
+
+###Cook - 
+everybody gotta eat (except for synths. scum. ::spits::):
+Table for: 1, 4, large group, mess hall
+From: fresh food, preserves, MREs., Spoiled food.
+Use survivalist to make potable water, not cook!
+
+###Criminal - 
+was thinking of replacing this with the word "smuggler" but smuggler shouls be an archetype, not a skill. Anyway, this is for disguise, lock picking, prying, breaking, and concealing.
+
+###Dealer: 
+used to cash in, profit, secure deals, secure supplies, or appraise. Test Resources separately when purchasing.
+
+###Engineer - 
+all things shippy and equipmenty. 
+Create plans: reverse engineer, jury rigging, simple EQ, complex EQ, Ship
+Repair:
+Diagnose:
+Interpret blueprints:
+Add factor for class of object: simple, moderately complex, complex, alien.
+
+###Fabricator - 
+(this should just be folded into engineer probably) creating gear and supplies on the go or in town at the equivalent of guilds, requires tools or appropriate machinery.
+Scale:
+Complexity:
+
+###Fighter - 
+for firefights with small arms and hand to hand, usually on foot.
+
+###Haggler - 
+you know what this is. Mostly for use when entering Town.
+
+###Manipulator - 
+... For vs. and social conflicts.
+
+###Medic - 
+basically healer (from uscmc)
+
+###Mentor - 
+I think this is a more appropriate word for this setting than instructor which is used in uscmc.
+
+###Interpreter - 
+language skillz. Or should we just leave wises to be the exclusive realmnof languages?
+
+###Munitioner - 
+You can make and repair weapons, body armor, and ammo. *cocks shotgun* ... don't forget the grenades!
+Class: small to large.
+Volatility: stable to highly reactive to radioactive.
+Complexity: manual, smart
+Note: guns and ammo are mostly purchased because they require industrial equipment to fabricate, but this skill can be used in a pinch to convert ammunition or repair or assemble arms and armor. Can also be used to make explosives with the right materials, etc.
+
+###Negotiator -
+?? I might throw this down instead of Broker.
+
+###Operator - 
+used to operate terrain vehicles, hydraulic equipment, loaders, trams, drills, and those little rolly grocery carts you can buy at the dollar store.
+
+###Persuader - 
+...for social conflicts and versus tests.
+
+###Pathfinder - 
+getting around on the ground and in isolated environments without getting lost. 
+
+###Pilot - 
+only for ship and flying vehicles.
+
+###Sage - 
+knowledge of the weirdness of space, alien life forms, and things unknown on the record books. Use bookkeeper to catalog findings. Kind of like lore master.
+
+###Scavenger - 
+gotta find scrap, you know?
+
+###Scout - 
+same as TB but will encompass some hunterly stuff like tracking.
+
+###Survivalist - 
+for surviving the environment and creating makeshift stuff to get by out there.
+
+###Tactician - 
+This is for waging war and for firefight and ship to ship maneuvers.
+
+###Technician - 
+the computer skill basically. Used to train and repair smart equipment and weaponry, operate and repair computers and life support, or to help artillerist.
+
+###Researcher - 
+the "scholar" skill but for thinslicing and doing deep reconnaissance on the net. Also decoding things or recalling historical facts on the field.
+
+(Question: should there be a dungeoneer equivalent for exploring and driving down into dungeon-like locations? Explorer?
+
+*Shane comment: Definitely some holes here but wanted to start laying these out.
+
+
+##You All Meet on the Line at Immigrations
+
+I also wanted to start hammering out the classes a little bit... 
+
+I don't think the main classes should be pilot, engineer, etc... Those are skills! Not classes. Let's think about the kinds of archetypes that would find this life and use those. So like... Human Smuggler, Scrapper, Mercenary, and for the cyborgs how about Cyborg Brute and Cyborg Savant, or something like that to convey they are weird/special? So you'd have your magic-type classes. Brute being the destroyer type and Savant being all about knowledge and being tricky. 
+
+Or: Human... 
+Smuggler, Scrapper, Scribe, Mercenary, Cyborg.
+
+Or: Synth...
+Synths do not have nature. Instead they have an Integrity rating. They also do not have conditions. As the Synth taxes Integrity, they degrade. No skill may be higher than Integrity. They do not have will or health. They always roll integrity if they do not have the skill. If the task is outside of their mode of operation (MO), integrity is taxed according to the nature rules. As it depletes, the synth is going haywire. Error, cannot compute.
 
