@@ -90,19 +90,25 @@ upstairs and the mess is just to the right. Everything else is life support.
 
 ####Artillerist
 Artillerists are adept in the use of crew level heavy weaponry from battery to cannon, large laser, high powered phase weaponry, and ballistics.
-######Suggested help for Artillerist: :Artillerist, Technician*:
-######Beginner's luck for Artillerist: :Health:
+
+######Suggested help for Artillerist: Artillerist, Technician*
+######Beginner's luck for Artillerist: Health
+
 *Technician helps Smart weaponry only.
 
 ######_Artillerist Factors:_
+
 For ship-based combative encounters and scrums, roll versus against opponent's Artillerist or Pilot. Also used in ship-to-ship and ship-to-surface conflicts.
 
 ####Astronomer
 An astronomer creates and interprets sector charts with and without the assistance of a computer.
 
+
 As the astronomer explores, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Astronomer skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. When creating a chart of a place not previously explored, the cart counts as supplies for navigating and pathfinding. 
 
+
 _Suggested Help:_ Cartographer, Researcher
+
 
 ######_Astronomer factors:_
 _Breadth (starts at 2):_ interplanetary, interstellar, intergalactic.

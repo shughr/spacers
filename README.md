@@ -112,6 +112,7 @@ _Suggested Help:_ Cartographer, Researcher
 
 ######_Astronomer factors:_
 _Breadth (starts at 2):_ interplanetary, interstellar, intergalactic.
+
 _Information:_ area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
 
 
@@ -119,44 +120,56 @@ _Information:_ area personally explored, from standard telescopy, from high powe
 For mapping on an overworld scale. See Torchbearer core rules.
 
 ####Civilian
-Civilians supply the machine of society. They work the industries and services required for intergalactic life, fabricate supplies, and operate the moisture farms.  
+Civilians fuel the machine of society. They work the industries and services required for intergalactic life, fabricate supplies, and operate the moisture farms.  
 
 ######_Civilian Factors:_
 _Work:_ service industry & supply chain, corporate work & industrial fabrication, computer & technical, farming & terraforming. 
+
 _Necessities:_ laundry & domestic life, managing warpnet accounts, event planning, finding a job, opening a bank account.
+
 _Complaining:_ taxes & sports, spouses & weather, commute, foreigners, aliens. 
 
 ####Clerk 
-Clerks are stewards of administrative activities, bookeeping, and formal communications.* 
-*Use Dealer to cash in and make deals, not Clerk. 
+Clerks are stewards of crews, enterprises, corporations, starbases, and sectors. They are adept at recordkeeping and formal communications. Use Dealer to cash in and make deals, not Clerk. 
 
 ######_Clerk Factors:_
-Logistics: Local, overworld; interplanetary, interstellar, intergalactic.
-Paperwork: invoice, contract, taxes
-Cataloguing: travel log, business log, research.
-Contracts: work for hire, small enterprise, corporate
-For: one, party, small enterprise, large enterprise, people group, national, planetary.
-Email: personal, to accountant, to slumlord, to CEO
+_Logistics:_ Local, overworld; interplanetary, interstellar, intergalactic.
 
-###Commander - 
-Leader skills. Mostly for conflicts.
+_Paperwork:_ invoice, contract, taxes.
 
-###Controller - 
+_Cataloguing:_ travel log, business log, research.
+
+_Contracts:_ work for hire, small enterprise, corporate.
+
+_For:_ one, party, small enterprise, large enterprise, national, planetary, cluster.
+
+_Email:_ personal, to accountant, to slumlord, to CEO, to government official, to world leader.
+
+####Commander
+Leader skills. Mostly for conflicts. See torchbearer core rules.
+
+####Controller 
 For augmentation rolls for cyborgs. Kind of like Arcanist. Not sure if we will do this but if we do, this is the space to describe whatever skill operates augs.
 
-###Cook - 
-everybody gotta eat (except for synths. scum. ::spits::):
-Table for: 1, 4, large group, mess hall
-From: fresh food, preserves, MREs., Spoiled food.
-Use survivalist to make potable water, not cook!
+###Cook 
+Everybody gotta eat (except for synths. scum. ::spits::).
 
-###Criminal - 
-was thinking of replacing this with the word "smuggler" but smuggler shouls be an archetype, not a skill. Anyway, this is for disguise, lock picking, prying, breaking, and concealing.
+######_Factors for Cook:
+_Table for:_ 1, 4, large group, mess hall
 
-###Dealer: 
-used to cash in, profit, secure deals, secure supplies, or appraise. Test Resources separately when purchasing.
+_From:_ fresh food, preserves, MREs., Spoiled food.
 
-###Engineer - 
+*Use survivalist to make potable water, not cook!
+
+####Criminal
+Was thinking of replacing this with the word "smuggler" but smuggler shouls be an archetype, not a skill. Anyway, this is for disguise, lock picking, prying, breaking, and concealing.
+
+Should this include nefarious hacking and things like shorting out electronic locking mechanisms, hijacking vehicles, etc., or will that be the realm of technician?
+
+####Dealer: 
+Used to cash in, profit, secure deals, secure supplies, or appraise. Test Resources separately when purchasing.
+
+####Engineer - 
 all things shippy and equipmenty. 
 Create plans: reverse engineer, jury rigging, simple EQ, complex EQ, Ship
 Repair:
