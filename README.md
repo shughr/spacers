@@ -90,8 +90,8 @@ upstairs and the mess is just to the right. Everything else is life support.
 
 ####Artillerist
 Artillerists are adept in the use of crew level heavy weaponry from battery to cannon, large laser, high powered phase weaponry, and ballistics.
-Suggested help for Artillerist: Artillerist, Technician*
-Beginner's luck for Artillerist: Health
+######Suggested help for Artillerist:###### Artillerist, Technician*
+######Beginner's luck for Artillerist:###### Health
 *Technician helps Smart weaponry only.
 
 ######_Artillerist Factors:_
