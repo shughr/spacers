@@ -88,25 +88,49 @@ upstairs and the mess is just to the right. Everything else is life support.
 
 ## Skills & Factors
 
-###Artillerist - 
-Used for heavy, smart, and large weaponry, large laser, high powered phase weaponry, and ballistics.
-Used for vs. and used to operate crew level weaponry from battery to cannon. Also used to operate smart weaponry. (Benefit of manual weaponry is it can't be hacked.. all smart equipment should have a security level. Benefit of smart weaponry is technician can help. Technician cannot help with manual weaponry.)
+####Artillerist
+Artillerists are adept in the use of crew level heavy weaponry from battery to cannon, large laser, high powered phase weaponry, and ballistics.
+Suggested help for Artillerist: Artillerist, Technician*
+Beginner's luck for Artillerist: Health
+*Technician helps Smart weaponry only.
 
-###Astronomer - 
-For mapping, charting, and manual wayfinding on planetary interstellar and intergalactic level!
+######_Artillerist Factors:_
+For ship-based combative encounters and scrums, roll versus against opponent's Artillerist or Pilot. Also used in ship-to-ship and ship-to-surface conflicts.
 
-###Bookkeeper - 
-Basically all things Steward. Bookkeeping is used to administrate... use Dealer to cash in and do deals, not Bookkeeper! Bookkeepers can do everything from cataloging findings for upload to the warpnet, to rationing supplies for the next leg of adventure (Bonus to recover from Wear & Tear/Fatigue).
-Factors:
+####Astronomer
+An astronomer creates and interprets sector charts with and without the assistance of a computer.
+
+As the astronomer explores, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Astronomer skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. When creating a chart of a place not previously explored, the cart counts as supplies for navigating and pathfinding. 
+
+_Suggested Help:_ Cartographer, Researcher
+
+######_Astronomer factors:_
+_Breadth (starts at 2):_ interplanetary, interstellar, intergalactic.
+_Information:_ area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
+
+
+####Cartographer
+For mapping on an overworld scale. See Torchbearer core rules.
+
+####Civilian
+Civilians supply the machine of society. They work the industries and services required for intergalactic life, fabricate supplies, and operate the moisture farms.  
+
+######_Civilian Factors:_
+_Work:_ service industry & supply chain, corporate work & industrial fabrication, computer & technical, farming & terraforming. 
+_Necessities:_ laundry & domestic life, managing warpnet accounts, event planning, finding a job, opening a bank account.
+_Complaining:_ taxes & sports, spouses & weather, commute, foreigners, aliens. 
+
+####Clerk 
+Clerks are stewards of administrative activities, bookeeping, and formal communications.* 
+*Use Dealer to cash in and make deals, not Clerk. 
+
+######_Clerk Factors:_
 Logistics: Local, overworld; interplanetary, interstellar, intergalactic.
 Paperwork: invoice, contract, taxes
 Cataloguing: travel log, business log, research.
 Contracts: work for hire, small enterprise, corporate
 For: one, party, small enterprise, large enterprise, people group, national, planetary.
 Email: personal, to accountant, to slumlord, to CEO
-
-###Cartographer - 
-for mapping on small scale.
 
 ###Commander - 
 Leader skills. Mostly for conflicts.
@@ -164,6 +188,8 @@ Volatility: stable to highly reactive to radioactive.
 Complexity: manual, smart
 Note: guns and ammo are mostly purchased because they require industrial equipment to fabricate, but this skill can be used in a pinch to convert ammunition or repair or assemble arms and armor. Can also be used to make explosives with the right materials, etc.
 
+####Navigator
+
 ###Negotiator -
 ?? I might throw this down instead of Broker.
 
@@ -178,6 +204,9 @@ getting around on the ground and in isolated environments without getting lost.
 
 ###Pilot - 
 only for ship and flying vehicles.
+
+###Rigger -
+The rigger is the laborer of the modern world. 
 
 ###Sage - 
 knowledge of the weirdness of space, alien life forms, and things unknown on the record books. Use bookkeeper to catalog findings. Kind of like lore master.
