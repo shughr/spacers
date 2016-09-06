@@ -356,7 +356,8 @@ all over the sector make do with a little braked help and a lotta luck.
 | **Weapons**| Any |
 | **Armor**| Any |
 
-|Synth Scientist|
+|Synth Scientist||
+|---|---|
 | **Raw Abilities | Integrity 5 | 
 | **Skills** |Technician 4, Navigator 3, Researcher 2, Mechanic 3,
 Xenologist 2| 
