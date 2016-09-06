@@ -324,40 +324,35 @@ all over the sector make do with a little braked help and a lotta luck.
 
 ##### 
 
-|Human Smuggler|
-|---|
-| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
-may have  a rating lower than 2 or higher than 6|
-| **Skills** |Manipulator 3, Criminal 3, Fighter 3, Scavenger 2, Explorer 2, Helm
-2
+|Human Smuggler||
+|---|---|
+| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat may have  a rating lower than 2 or higher than 6|
+| **Skills** |Manipulator 3, Criminal 3, Fighter 3, Scavenger 2, Explorer 2, Helm 2|
 | **Trait** |
-| **Weapons**: Any except explosives|
-| **Armor**: Any except powered|
+| **Weapons**| Any except explosives|
+| **Armor**| Any except powered|
 
-|Human Traveler|
-|---|
-| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
-may have  a rating lower than 2 or higher than 6|
-| **Skills** | Helm 3, Artillerist 3, Xenologist 3, Navigator 2, Persuader 2,
-Researcher 2
-| **Trait**: |
-| **Weapons**: Any except explosives and monoblades|
-| **Armor**: Any except heavy and powered|
+|Human Traveler||
+|---|---|
+| **Raw Abilities**|Distribute 8 points between Will and Health; neither stat may have  a rating lower than 2 or higher than 6|
+| **Skills** | Helm 3, Artillerist 3, Xenologist 3, Navigator 2, Persuader 2, Researcher 2|
+| **Trait** |
+| **Weapons**| Any except explosives and monoblades|
+| **Armor**| Any except heavy and powered|
 
-|Human Engineer|
-| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
-may have  a rating lower than 2 or higher than 6|
-| **Skills**: |Mechanic 3, Technician 3, Spacer 3, Scrapper 2, Artillerist 2,
-Cook 2
-| **Trait**: |
-| **Weapons**: Any except explosives and monoblades|
-| **Armor**: Any except heavy and powered|
+|Human Engineer||
+|---|---|
+| **Raw Abilities**|Distribute 8 points between Will and Health; neither stat may have  a rating lower than 2 or higher than 6|
+| **Skills** |Mechanic 3, Technician 3, Spacer 3, Scrapper 2, Artillerist 2, Cook 2|
+| **Trait** ||
+| **Weapons**| Any except explosives and monoblades|
+| **Armor**| Any except heavy and powered|
 
 |Cyborg Soldier||
 |---|---|
 | **Raw Abilities**|Health 5, Will 3|
-| **Skills** |Fighter 4, Artillerist 3, Pilot 2, Rigger 2, Spacer 2
-| **Trait**: |
+| **Skills** |Fighter 4, Artillerist 3, Pilot 2, Rigger 2, Spacer 2|
+| **Trait** ||
 | **Weapons**| Any |
 | **Armor**| Any |
 
