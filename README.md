@@ -124,13 +124,14 @@ As the astronomer explores, they create a chart indicating the places they've vi
 
 _Suggested Help:_ Cartographer, Researcher
 
-
+> Maybe nitpicky, but I vote we rename this to Navigator. Should be suggested
+help for Helm.
 ######_Astronomer factors:_
 _Breadth (starts at 2):_ interplanetary, interstellar, intergalactic.
 
 _Information:_ area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
 
-
+ 
 ####Cartographer
 For mapping on an overworld scale. See Torchbearer core rules.
 
@@ -193,28 +194,39 @@ Interpret blueprints:
 Add factor for class of object: simple, moderately complex, complex, alien.
 
 ###Fabricator - 
-(this should just be folded into engineer probably) creating gear and supplies on the go or in town at the equivalent of guilds, requires tools or appropriate machinery.
+( this should just be folded into engineer probably) creating gear and supplies on the go or in town at the equivalent of guilds, requires tools or appropriate machinery.
+> I'm all about this being a separate skill. Even in an era of widespread
+intergalactic travel, being able to make steak out of thin air should count as
+special. 
 Scale:
 Complexity:
 
 ###Fighter - 
 for firefights with small arms and hand to hand, usually on foot.
 
+####Helm
+Helm covers the vast technical knowledge required of a ships captain in order to
+operate and pilot a starship. 
+
+__Suggested Help__ Navigator
+
 ###Haggler - 
 you know what this is. Mostly for use when entering Town.
-
+ 
 ###Manipulator - 
 ... For vs. and social conflicts.
-
+ 
 ###Medic - 
 basically healer (from uscmc)
-
+ 
 ###Mentor - 
 I think this is a more appropriate word for this setting than instructor which is used in uscmc.
-
-###Interpreter - 
-language skillz. Or should we just leave wises to be the exclusive realmnof languages?
-
+> Agreed
+~~###Interpreter - ~~
+~~language skillz. Or should we just leave wises to be the exclusive realmnof
+languages?~~
+> I vote that language skills get rolled up into wises, or if you really need to
+test something, just test Xenologist.
 ###Munitioner - 
 You can make and repair weapons, body armor, and ammo. *cocks shotgun* ... don't forget the grenades!
 Class: small to large.
@@ -223,7 +235,7 @@ Complexity: manual, smart
 Note: guns and ammo are mostly purchased because they require industrial equipment to fabricate, but this skill can be used in a pinch to convert ammunition or repair or assemble arms and armor. Can also be used to make explosives with the right materials, etc.
 
 ####Navigator
-
+ 
 ###Negotiator -
 ?? I might throw this down instead of Broker.
 
@@ -238,33 +250,36 @@ getting around on the ground and in isolated environments without getting lost.
 
 ###Pilot - 
 only for ship and flying vehicles.
-
+ > @groverbomb, I dont think this and Operator should be split up. One or the
+ other?
 ###Rigger -
-The rigger is the laborer of the modern world. 
-
+The rigger is the laborer of the modern world.  
+> This is fucking great.
 ###Sage - 
 knowledge of the weirdness of space, alien life forms, and things unknown on the record books. Use bookkeeper to catalog findings. Kind of like lore master.
-
+ > I have this listed in the character section as Xenologist?
 ###Scavenger - 
-gotta find scrap, you know?
+gotta f ind scrap, you know?
 
 ###Scout - 
 same as TB but will encompass some hunterly stuff like tracking.
 
+###Spacer
+This covers vacsuit operation and the exection of all sorts of zero-g maneuvers. 
 ###Survivalist - 
 for surviving the environment and creating makeshift stuff to get by out there.
-
+ 
 ###Tactician - 
 This is for waging war and for firefight and ship to ship maneuvers.
-
+ 
 ###Technician - 
 the computer skill basically. Used to train and repair smart equipment and weaponry, operate and repair computers and life support, or to help artillerist.
-
+ 
 ###Researcher - 
 the "scholar" skill but for thinslicing and doing deep reconnaissance on the net. Also decoding things or recalling historical facts on the field.
 
 (Question: should there be a dungeoneer equivalent for exploring and driving down into dungeon-like locations? Explorer?
-
+> Response: Definitely. I think Explorer is the way to go. 
 *Shane comment: Definitely some holes here but wanted to start laying these out.
 
 
@@ -280,6 +295,17 @@ Smuggler, Scrapper, Scribe, Mercenary, Cyborg.
 Or: Synth...
 Synths do not have nature. Instead they have an Integrity rating. They also do not have conditions. As the Synth taxes Integrity, they degrade. No skill may be higher than Integrity. They do not have will or health. They always roll integrity if they do not have the skill. If the task is outside of their mode of operation (MO), integrity is taxed according to the nature rules. As it depletes, the synth is going haywire. Error, cannot compute.
 
+The original classes I had brainstormed (I think these are somewhere in the
+early versions...) were Human Smuggler, Human Engineer, Human Traveler, Cyborg
+Soldier, Synth Scientist. I'm curious about how the Synth rules you have above
+would work out...I agree with you that that classes shouldn't be reduced to a
+particular skill, but I think the archetypes for the genre are pretty well
+defined, and they're Pilot, Scoundrel/Smuggler, Head of Security, and
+Engineer/Mechanic. I like the idea Cyborgs being their own stock, and
+representing various augmentations with Nature Descriptors. So as part of
+character creation, you can choose to discard one or two of your Human Nature
+descriptors and take on two more. Let's see what basic stat blocks for these
+would look like:
 
 
 #### Helm
@@ -297,3 +323,48 @@ all over the sector make do with a little braked help and a lotta luck.
 ##### Tactics
 
 ##### 
+
+|Human Smuggler|
+|---|
+| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
+may have  a rating lower than 2 or higher than 6|
+| **Skills** |Manipulator 3, Criminal 3, Fighter 3, Scavenger 2, Explorer 2, Helm
+2
+| **Trait** |
+| **Weapons**: Any except explosives|
+| **Armor**: Any except powered|
+
+|Human Traveler|
+|---|
+| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
+may have  a rating lower than 2 or higher than 6|
+| **Skills** | Helm 3, Artillerist 3, Xenologist 3, Navigator 2, Persuader 2,
+Researcher 2
+| **Trait**: |
+| **Weapons**: Any except explosives and monoblades|
+| **Armor**: Any except heavy and powered|
+
+|Human Engineer|
+| **Raw Abilities**:Distribute 8 points between Will and Health; neither stat
+may have  a rating lower than 2 or higher than 6|
+| **Skills**: |Mechanic 3, Technician 3, Spacer 3, Scrapper 2, Artillerist 2,
+Cook 2
+| **Trait**: |
+| **Weapons**: Any except explosives and monoblades|
+| **Armor**: Any except heavy and powered|
+
+|Cyborg Soldier||
+|---|---|
+| **Raw Abilities**|Health 5, Will 3|
+| **Skills** |Fighter 4, Artillerist 3, Pilot 2, Rigger 2, Spacer 2
+| **Trait**: |
+| **Weapons**| Any |
+| **Armor**| Any |
+
+|Synth Scientist|
+| **Raw Abilities | Integrity 5 | 
+| **Skills** |Technician 4, Navigator 3, Researcher 2, Mechanic 3,
+Xenologist 2| 
+| **Trait** |
+| **Weapons** | Any |
+| **Armor**| Any but powered |
