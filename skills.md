@@ -113,13 +113,13 @@ Used to cash in, profit, secure deals, secure supplies, or appraise. Test Resour
 ## Engineer
 all things shippy and equipmenty. Create plans: reverse engineer, jury rigging, simple EQ, complex EQ, Ship
 
-Repair:
+_Repair_:
 
-Diagnose:
+_Diagnose_: 
 
-Interpret blueprints
+_Interpret blueprints_:
 
-Add factor for class of object: simple, moderately complex, complex, alien.
+_Add factor for class of object (do not add factor if simple)_: moderately complex, complex, alien.
 
 ## Fabricator
 
