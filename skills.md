@@ -26,23 +26,6 @@ influence)
 
 `*Technician helps Smart weaponry only.`
 
-## Navigator
-An Navigator creates and interprets sector charts with and without the assistance of a computer.
-
-As the Navigator explores, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Navigator skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. 
-
-When deriving a chart of a place not previously explored, the chart counts as supplies for navigating and pathfinding.
-
-__Suggested Help:__ Technician (only when charting with computers), Scout, Researcher
-
-__Beginner's Luck:__ Will
-
-#### Navigator factors
-_Breadth (starts at 2)_: interplanetary, interstellar, intergalactic.
-
-_Information_: area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
-
-
 ## -Cartographer-
 -For mapping on an overworld scale. See Torchbearer core rules.-
 
@@ -122,7 +105,6 @@ _Interpret blueprints_:
 _Add factor for class of object (do not add factor if simple)_: moderately complex, complex, alien.
 
 ## Fabricator
-
 ( this should just be folded into engineer probably) creating gear and supplies on the go or in town at the equivalent of guilds, requires tools or appropriate machinery.
 
 > I'm all about this being a separate skill. Even in an era of widespread intergalactic travel, being able to make steak out of thin air should count as special.
@@ -132,88 +114,100 @@ Scale:
 Complexity:
 
 ## Fighter
-for firefights with small arms and hand to hand, usually on foot.
+Fighters engage their opponents face to face, in firefights with small arms and hand to hand, either while spacing or on foot.
+
+For use in standard Kill, Capture, and Drive Off conflicts. Roll versus Fighter or Nature.
 
 ## Helm
-Helm covers the vast technical knowledge required of a ships captain in order to
-operate and pilot a starship.
+Helm covers the vast technical knowledge required of a ship's captain in order to
+operate and pilot a starship. 
 
-__Suggested Help__ Navigator
+To take the helm of any startship is a brutally dangerous task. Fleet captains and hotshot pilots must posess vast technical knowlege of their craft if they are to survive long in the unrelenting gauntlet of deep space travel. Spacers all over the sector make do with a little braked help and a lotta luck.
+
+__Suggested Help__: Navigator, Technician
+
+__Beginners Luck__: Will
 
 ## Haggler
-you know what this is. Mostly for use when entering Town.
+Haggler is mostly used when entering Town, for rolling on the town haggling table. 
 
 ## Manipulator
 For vs. and social conflicts.
 
 ## Medic
-basically healer (from uscmc)
+See Healer from Torchbearer core book (or Medic from USCMC)
 
 ## Mentor
-I think this is a more appropriate word for this setting than instructor which is used in uscmc.
+I think this is a more appropriate word for this setting than instructor which is used in USCMC.
+Obstacle is target's Max Nature.
 
 ## Munitioner
 You can make and repair weapons, body armor, and ammo. *cocks shotgun* ... don't forget the grenades!
 
+_Class_ (starts at 2): standard, heavy, crew level, WoMD.
 
-Class: small to large.
+_Volatility_: reactive, highly reactive, radioactive.
 
-Volatility: stable to highly reactive to radioactive.
+_Complexity_: standard, smart
 
-Complexity: manual, smart
-
-`Note: guns and ammo are mostly purchased because they require industrial equipment to fabricate, but this skill can be used in a pinch to convert ammunition or repair or assemble arms and armor. Can also be used to make explosives with the right materials, etc.`
+`Note: guns and ammo are mostly purchased because they require industrial equipment to fabricate, but this skill can be used in a pinch to convert ammunition or repair or assemble arms and armor. Can also be used to make explosives with the right materials, etc.. At GM discretion.`
 
 ## Navigator
+Navigators create and interpret sector charts with and without the assistance of a computer.
+
+As navigators explore, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Navigator skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. 
+
+When deriving a chart of a place not previously explored, the chart counts as supplies for navigating and pathfinding.
+
+__Suggested Help:__ Technician (only when charting with computers), Scout, Researcher
+
+__Beginner's Luck:__ Will
+
+#### Navigator factors
+_Breadth (starts at 2)_: interplanetary, interstellar, intergalactic.
+
+_Information_: area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
 
 ## Negotiator
-I might throw this down instead of Broker.
+> Negotiator could potentially be the word for Haggler or Dealer or an almalgam of the two, or even a separate social skill (a la Orator, which is conspicuously missing from these rules). 
 
-## Operator
-used to operate terrain vehicles, hydraulic equipment, loaders, trams, drills, and those little rolly grocery carts you can buy at the dollar store.
+-## Operator-
+-used to operate terrain vehicles, hydraulic equipment, loaders, trams, drills, and those little rolly grocery carts you can buy at the dollar store.-
+> Absorbed by Pilot.
 
 ## Persuader
-...for social conflicts and versus tests.
+For social conflicts and versus tests to convince.
 
 ## Pathfinder
-getting around on the ground and in isolated environments without getting lost.
+Getting around on the ground and in isolated environments without getting lost.
+> @shughr, It's possible pieces of Pathfinder should be absorbed into Scout and Spacer. Not sure what you think.  
 
 ## Pilot
-only for ship and flying vehicles.
+Flying and driving.
 
 ## Rigger
 The rigger is the laborer of the modern world.
 
 ##Xenologist
-knowledge of the weirdness of space, alien life forms, and things unknown on the record books. Use bookkeeper to catalog findings. Kind of like lore master.
+Knowledge of the weirdness of space, alien life forms, and things unknown on the record books. Use Clerk to catalog findings. Kind of like lore master.
 
 ## Scavenger
-gotta find scrap, you know?
+Gotta find fuel & scrap, you know?
 
 ## Scout
-same as TB but will encompass some hunterly stuff like tracking.
+Same as TB but will encompass some tracking and telescopy.
 
 ## Spacer
 This covers vacsuit operation and the exection of all sorts of zero-g maneuvers.
 
 ## Survivalist
-for surviving the environment and creating makeshift stuff to get by out there.
+For surviving the environment and creating makeshift stuff to get by out there.
 
 ## Tactician
-This is for waging war and for firefight and ship to ship maneuvers.
+This is for waging war and for firefight and ship-to-ship maneuvers.
 
 ## Technician
-the computer skill basically. Used to train and repair smart equipment and weaponry, operate and repair computers and life support, or to help artillerist.
+The computer skill basically. Used to train and repair smart equipment, operate and repair computers and life support, or to help artillerist.
 
 ## Researcher
-the "scholar" skill but for thinslicing and doing deep reconnaissance on the net. Also decoding things or recalling historical facts on the field.
-
-## Helm
-To take the helm of any startship is a brutally dangerous task. Fleet captains
-and hotshot pilots must posess vast technical knowlege of their craft if they
-are to survive long in the unrelenting gauntlet of deep space travel. Spacers
-all over the sector make do with a little braked help and a lotta luck.
-__Suggested Help__: Navigator, Technician
-__Beginners Luck__: Will
-
-## Tactics
+The "scholar" skill but deep reconnaissance on and off the net. Also decoding things or recalling historical facts on the field.
