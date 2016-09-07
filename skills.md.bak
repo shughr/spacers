@@ -1,7 +1,7 @@
 # Skills & Factors
 
 ## Artillerist
-Artillery is in fact an ancient art. Mastery of the skill requires a deep and
+Artillery is in fact an ancient art. Artillerists are adept in the use of crew level heavy weaponry from battery to cannon, large laser, high powered phase weaponry, and ballistics. Mastery of the skill requires a deep and
 intuitive understanding of geometry, ballistics, classical mechanics, hard-vac
 dynamics, and general relativity. Most people get by with the help of a braked
 weapons module and good instincts.
@@ -10,10 +10,8 @@ Artillerists are adept in the use of crew level heavy weaponry from battery to c
 
 __Suggested Help__: Computers, Helm
  __Beginners Luck__: Will
- 
  __Suggested help for Artillerist__: Artillerist, Technician*
 __Beginner's luck for Artillerist__: Health
->which suggested help and BL do we keep?
 #### Artillerist Factors
  _Size of Target_: Of a class above, of the same class, of a lesser class
 
@@ -29,56 +27,42 @@ influence)
 ## Navigator
 An Navigator creates and interprets sector charts with and without the assistance of a computer.
 
-As the Navigator explores, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Navigator skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. 
+As the Navigator explores, they create a chart indicating the places they've visited. Players should not draw a map. Instead, they should list locations and features. If they can pass an Navigator skill test then they are considered to be in possession of accurate charts and data on the sector(s) in question. So long as they are 'on the chart' they can travel between locations without facing obstacles previously encountered. When creating a chart of a place not previously explored, the cart counts as supplies for navigating and pathfinding.
 
-When deriving a chart of a place not previously explored, the chart counts as supplies for navigating and pathfinding.
-
-__Suggested Help:__ Technician (only when charting with computers), Scout, Researcher
-
-__Beginner's Luck:__ Will
+__Suggested Help:__ Cartographer, Researcher
 
 #### Navigator factors
-_Breadth (starts at 2)_: interplanetary, interstellar, intergalactic.
+_Breadth (starts at 2):_ interplanetary, interstellar, intergalactic.
 
-_Information_: area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
+_Information:_ area personally explored, from standard telescopy, from high powered telescopy, based on word of mouth.
 
 
-## -Cartographer-
--For mapping on an overworld scale. See Torchbearer core rules.-
-
-> Deleted because Navigator should rule all mapping in Spacers.
+## Cartographer
+For mapping on an overworld scale. See Torchbearer core rules.
 
 ## Civilian
 Civilians fuel the machine of society. They work the industries and services required for intergalactic life, fabricate supplies, and operate the moisture farms.
 
-__Suggested Help:__ Clerk, Dealer 
-
-__Beginner's Luck:__ Health
-
 #### Civilian Factors
-_Work:_ service industry & supply chain, corporate work & industrial fabrication, computer & technical, hydroponics & terraforming.
+_Work:_ service industry & supply chain, corporate work & industrial fabrication, computer & technical, farming & terraforming.
 
-_Necessities_: laundry & domestic life, managing warpnet accounts, event planning, finding a job & opening (or closing) a bank account.
+_Necessities:_ laundry & domestic life, managing warpnet accounts, event planning, finding a job, opening a bank account.
 
-_Complaining_: taxes & sports, spouses & weather, commute & foreigners, aliens.
+_Complaining:_ taxes & sports, spouses & weather, commute, foreigners, aliens.
 
 ## Clerk
 Clerks are stewards of crews, enterprises, corporations, starbases, and sectors. They are adept at recordkeeping and formal communications. Use Dealer to cash in and make deals, not Clerk.
-
-__Suggested Help:__ Civilian, Dealer 
-
-__Beginner's Luck:__ Will
 
 #### _Clerk Factors:_
 _Logistics:_ Local, overworld; interplanetary, interstellar, intergalactic.
 
 _Paperwork:_ invoice, contract, taxes.
 
-_Cataloguing:_ travel log, business & transactional log, research into the unknown.
+_Cataloguing:_ travel log, business log, research.
 
-_Contracts:_ work for hire, small enterprise, corporate & governmental.
+_Contracts:_ work for hire, small enterprise, corporate.
 
-_For:_ party, small enterprise, large enterprise, national or planetary, cluster.
+_For:_ one, party, small enterprise, large enterprise, national, planetary, cluster.
 
 _Email:_ personal, to accountant, to slumlord, to CEO, to government official, to world leader.
 
@@ -90,10 +74,6 @@ For augmentation rolls for cyborgs. Kind of like Arcanist. Not sure if we will d
 
 ## Cook
 Everybody gotta eat (except for synths. scum. ::spits::).
-
-__Suggested Help:__ Civilian, Rigger 
-
-__Beginner's Luck:__ Will
 
 #### Factors for Cook:
 _Table for:_ 1, 4, large group, mess hall
