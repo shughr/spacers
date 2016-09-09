@@ -12,7 +12,7 @@ Where's the nearest dealership?
 ## Provenance
 She's pretty. Who'd you steal her from?
 ## Traits
-I've made a lot of special modifications myself.
+I've made a lot of special modifications myself. (See [ship traits](./traits.md))
 ## Raw Abilities
 ### Integrity
 Don't worry, she'll hold together.
